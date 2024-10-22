@@ -1,7 +1,7 @@
 # 테라폼 가이드
 
 ## Terraform을 사용하기전 종속성 패키지 자동설치
-> scripts -> azure 해당하는 OS의 스크립트 실행  `./*_running.sh`  
+> scripts -> aws에 해당하는 OS의 스크립트 실행  `./*_running.sh`  
 파일의 실행 권한이 없다면 `chmod +x *_running.sh` 실행 권한을 주고 실행  
 Windows 는 <관리자 권한 실행> 필수 
 
